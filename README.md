@@ -22,5 +22,12 @@
 - [ ] 14. Friends App - real project!
 
 ## Git Basics
+Before the course, I've already familiar with Git a little bit. But thanks to Kottans, I learned a lot of new information, which I'll use in the future. I became more confident in my knowledge about Git. 
+
 Udacity - Version Control with Git
-![Udacity](/task-udacity/1.jpg)
+![Udacity](/task-git-basics/udacity.png)
+
+learngitbranching.js.org
+![Learngitbranching](/task-git-basics/learngitbranching.js.org-1.png)
+![Learngitbranching](/task-git-basics/learngitbranching.js.org-2.png)
+
