@@ -44,11 +44,13 @@ All materials were new for me. It was great experience and I'd certanly use it i
 
 ## Git Collaboration
 **Udacity - GitHub & Collaboration**
+
 Amazing course! It's a must-have for fully understanding the work with the Git and GitHub.
 ![Udacity-GH](/task_git_collaboration/udacity-github.png)
 
 
 **learngitbranching.js.org**
+
 I've already completed all the levels at learngitbranching.js.org during 0.[Git Basics](#git-basics)
 
 
