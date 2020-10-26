@@ -3,7 +3,7 @@
 
 ## General
 - [x] 0. [Git Basics](#git-basics) 
-- [ ] 1. Linux CLI and Networking
+- [x] 1. [Linux CLI and HTTP](#linux-cli-and-http)
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 ## Front-End Basics
 - [ ] 3. Intro to HTML & CSS
@@ -30,4 +30,15 @@ Udacity - Version Control with Git
 learngitbranching.js.org
 ![Learngitbranching](/task_git_basics/learngitbranching.js.org-1.png)
 ![Learngitbranching](/task_git_basics/learngitbranching.js.org-2.png)
+
+## Linux CLI and HTTP
+All materials were new for me. It was great experience and I'd certanly use it in the future work.
+
+![Linux-survival](/task_linux_cli/linux-survival-1.png)
+![Linux-survival](/task_linux_cli/linux-survival-2.png)
+![Linux-survival](/task_linux_cli/linux-survival-3.png)
+![Linux-survival](/task_linux_cli/linux-survival-4.png)
+![Linux-survival](/task_linux_cli/linux-survival-5.png)
+
+
 
