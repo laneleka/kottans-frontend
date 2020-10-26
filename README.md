@@ -25,9 +25,9 @@
 Before the course, I've already familiar with Git a little bit. But thanks to Kottans, I learned a lot of new information, which I'll use in the future. I became more confident in my knowledge about Git. 
 
 Udacity - Version Control with Git
-![Udacity](/task-git-basics/udacity.png)
+![Udacity](/task_git_basics/udacity.png)
 
 learngitbranching.js.org
-![Learngitbranching](/task-git-basics/learngitbranching.js.org-1.png)
-![Learngitbranching](/task-git-basics/learngitbranching.js.org-2.png)
+![Learngitbranching](/task_git_basics/learngitbranching.js.org-1.png)
+![Learngitbranching](/task_git_basics/learngitbranching.js.org-2.png)
 
