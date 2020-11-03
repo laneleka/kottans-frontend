@@ -7,7 +7,7 @@
 - [x] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basics
-- [ ] 3. Intro to HTML & CSS
+- [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
@@ -53,7 +53,18 @@ Amazing course! It's a must-have for fully understanding the work with Git and G
 
 I've already completed all the levels at learngitbranching.js.org during 0.[Git Basics](#git-basics)
 
+## Intro to HTML and CSS
+**Udacity - Intro to HTML and CSS**
+
+![Udacity-Intro](/task_html_css_intro/udacity-intro-html-css.png)
+
+**Codecademy - Learn HTML and Learn CSS**
+
+![Codecademy-HTML](/task_html_css_intro/codecademy-learn-html.png)
+![Codecademy-CSS](/task_html_css_intro/codecademy-learn-css.png)
 
 
-
-
+I have updated my base knowledge of html and css.
+Also I gained new knowledge in html and css, such as:
+- scope in the table, type range and datalist in input;
+- grid layout and transitions.
