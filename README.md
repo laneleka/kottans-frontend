@@ -8,7 +8,7 @@
 
 ## Front-End Basics
 - [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
-- [ ] 4. Responsive Web Design
+- [x] 4. [Responsive Web Design](#responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
@@ -68,3 +68,14 @@ I have updated my base knowledge of html and css.
 Also I gained new knowledge in html and css, such as:
 - scope in the table, type range and datalist in input;
 - grid layout and transitions.
+
+## Responsive Web Design
+**Udacity - Responsive Web Design Fundamentals**
+
+![Udacity - Responsive Web Design](/task_responsive_web_design/udacity-responsive-web-design.png)
+
+**Flexbox Froggy**
+
+![Flexbox Froggy](/task_responsive_web_design/flexbox-froggy.png)
+
+I have updated my base knowledge.
