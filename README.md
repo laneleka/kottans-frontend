@@ -9,7 +9,7 @@
 ## Front-End Basics
 - [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [x] 4. [Responsive Web Design](#responsive-web-design)
-- [x] 5. [HTML & CSS Practice](#html-&-css-practice)
+- [x] 5. [HTML & CSS Practice](#html-and-css-practice)
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
 
@@ -80,7 +80,7 @@ Also I gained new knowledge in html and css, such as:
 
 I have updated my base knowledge.
 
-## HTML & CSS Practice
+## HTML and CSS Practice
 
 [Demo](https://laneleka.github.io/) ||||
 [Code base](https://github.com/laneleka/kottans-frontend/tree/main/html_css_popup)
